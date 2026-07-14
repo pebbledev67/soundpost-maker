@@ -3,6 +3,10 @@ An easy-to-use web application that compiles 4chan-compatible soundposts (WebM v
 
 <img width="2492" height="2008" alt="FVLgFnWnaz" src="https://github.com/user-attachments/assets/96bf1ff3-c51d-49a8-bc53-71f2139fb699" />
 
-How to install:
+# How to install:
 Download the release, unzip the files, run *Start-SoundpostMaker.bat*
+
 It'll automatically download everything you need. Copy paste the URL in your browser, and you're done.
+
+# How to get your catbox credentials (userhash)
+Register an account on https://catbox.moe/. On the user page, click on "Manage account". Copy-paste that hash to the app.
