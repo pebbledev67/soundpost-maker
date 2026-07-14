@@ -1,7 +1,7 @@
 # soundpost-maker
 An easy-to-use web application that compiles 4chan-compatible soundposts (WebM videos with external audio links in the filename) from local video uploads or YouTube links, while preserving the quality as much as possible.
 
-<img width="2492" height="2008" alt="FVLgFnWnaz" src="https://github.com/user-attachments/assets/96bf1ff3-c51d-49a8-bc53-71f2139fb699" />
+<img width="2492" height="2008" alt="FVLgFnWnaz" src="https://github.com/user-attachments/assets/b3329d83-00dc-45de-ac3c-e6d26522b07b" />
 
 # How to install:
 Download the release, unzip the files, run *Start-SoundpostMaker.bat*
